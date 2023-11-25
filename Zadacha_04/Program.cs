@@ -1,4 +1,6 @@
-﻿namespace Task_04
+Извините случайн забросил этот файл. Тут сильно тривиально решено. Не знаю как удалить.
+
+namespace Task_04
 {
     public class Program
     {

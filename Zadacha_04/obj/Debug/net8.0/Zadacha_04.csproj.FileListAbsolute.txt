@@ -1,0 +1,14 @@
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.AssemblyInfoInputs.cache
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.AssemblyInfo.cs
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.csproj.CoreCompileInputs.cache
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\bin\Debug\net8.0\Zadacha_04.exe
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\bin\Debug\net8.0\Zadacha_04.deps.json
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\bin\Debug\net8.0\Zadacha_04.runtimeconfig.json
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\bin\Debug\net8.0\Zadacha_04.dll
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\bin\Debug\net8.0\Zadacha_04.pdb
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.dll
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\refint\Zadacha_04.dll
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.pdb
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\Zadacha_04.genruntimeconfig.cache
+D:\Павел\Desktop\Home_Seminaricl\Zadacha_04\obj\Debug\net8.0\ref\Zadacha_04.dll
